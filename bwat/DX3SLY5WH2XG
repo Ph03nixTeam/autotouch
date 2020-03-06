@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+<title>AutoTouch Licenses Management</title>
+
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<div class="title-field">
+    <div class="title">AutoTouch Licenses</div>
+</div>
+
+<div class="field" id="div-current-device-is-activated" >
+    <div class="validated-field">
+        <div>
+            <img src="/images/icon-validated.png">
+            Current device is activated! Please download the license file to your device.
+        </div>
+    </div>
+</div>
+<div class="field price-field">
+    <div>$25 USD lifetime</div>
+</div>
+<div class="field">
+    <button class="btn btn-big">Cracked by BlackWings</button></div>
+</div>
+</body>
+</html>
